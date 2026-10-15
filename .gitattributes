@@ -1,0 +1,11 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.ipynb text eol=lf -whitespace
+*.html text eol=lf -whitespace
+.gitignore text eol=lf
+.gitattributes text eol=lf
+# Zachowaj oryginalne bajty datasetu i zgodność SHA-256.
+data/raw/*.csv -text -whitespace

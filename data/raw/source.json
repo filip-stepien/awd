@@ -1,0 +1,7 @@
+{
+  "source": "https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/bobbyscience/league-of-legends-diamond-ranked-games-10-min",
+  "file": "high_diamond_ranked_10min.csv",
+  "sha256": "82b2e23279097c2dac616e966eb2911711c428d41b6382b4cdb15da4892f9ca6",
+  "bytes": 1446502
+}

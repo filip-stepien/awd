@@ -1,0 +1,41 @@
+kolumna,rola,opis
+gameId,identyfikator,ID meczu; wyłączony ze statystyk i korelacji
+blueWins,kategoria binarna,"Końcowy wynik: 1 = wygrana blue, 0 = wygrana red"
+blueWardsPlaced,liczbowa,blue: Liczba postawionych wardów
+blueWardsDestroyed,liczbowa,blue: Liczba zniszczonych wardów przeciwnika
+blueFirstBlood,kategoria binarna,"blue: Pierwsze zabójstwo: 1 = ta drużyna, 0 = przeciwnik"
+blueKills,liczbowa,blue: Liczba zabójstw przeciwników
+blueDeaths,liczbowa,blue: Liczba śmierci graczy drużyny
+blueAssists,liczbowa,blue: Liczba asyst
+blueEliteMonsters,liczbowa,blue: Liczba smoków i Heroldów łącznie
+blueDragons,liczbowa,blue: Liczba zabitych smoków
+blueHeralds,liczbowa,blue: Liczba zabitych Heroldów
+blueTowersDestroyed,liczbowa,blue: Liczba zniszczonych wież przeciwnika
+blueTotalGold,liczbowa,blue: Łączne złoto drużyny
+blueAvgLevel,liczbowa,blue: Średni poziom graczy drużyny
+blueTotalExperience,liczbowa,blue: Łączne doświadczenie drużyny
+blueTotalMinionsKilled,liczbowa,blue: Liczba zabitych minionów z linii
+blueTotalJungleMinionsKilled,liczbowa,blue: Liczba zabitych potworów w dżungli
+blueGoldDiff,liczbowa,blue: Złoto drużyny minus złoto przeciwnika
+blueExperienceDiff,liczbowa,blue: Doświadczenie drużyny minus doświadczenie przeciwnika
+blueCSPerMin,liczbowa,blue: Miniony z linii na minutę: TotalMinionsKilled / 10
+blueGoldPerMin,liczbowa,blue: Złoto na minutę: TotalGold / 10
+redWardsPlaced,liczbowa,red: Liczba postawionych wardów
+redWardsDestroyed,liczbowa,red: Liczba zniszczonych wardów przeciwnika
+redFirstBlood,kategoria binarna,"red: Pierwsze zabójstwo: 1 = ta drużyna, 0 = przeciwnik"
+redKills,liczbowa,red: Liczba zabójstw przeciwników
+redDeaths,liczbowa,red: Liczba śmierci graczy drużyny
+redAssists,liczbowa,red: Liczba asyst
+redEliteMonsters,liczbowa,red: Liczba smoków i Heroldów łącznie
+redDragons,liczbowa,red: Liczba zabitych smoków
+redHeralds,liczbowa,red: Liczba zabitych Heroldów
+redTowersDestroyed,liczbowa,red: Liczba zniszczonych wież przeciwnika
+redTotalGold,liczbowa,red: Łączne złoto drużyny
+redAvgLevel,liczbowa,red: Średni poziom graczy drużyny
+redTotalExperience,liczbowa,red: Łączne doświadczenie drużyny
+redTotalMinionsKilled,liczbowa,red: Liczba zabitych minionów z linii
+redTotalJungleMinionsKilled,liczbowa,red: Liczba zabitych potworów w dżungli
+redGoldDiff,liczbowa,red: Złoto drużyny minus złoto przeciwnika
+redExperienceDiff,liczbowa,red: Doświadczenie drużyny minus doświadczenie przeciwnika
+redCSPerMin,liczbowa,red: Miniony z linii na minutę: TotalMinionsKilled / 10
+redGoldPerMin,liczbowa,red: Złoto na minutę: TotalGold / 10
